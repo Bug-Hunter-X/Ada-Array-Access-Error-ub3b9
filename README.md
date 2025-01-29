@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ada programming: incorrect array access.  The `bug.ada` file contains code that attempts to use an array as if it were a function, leading to a runtime error. The `bugSolution.ada` file provides the corrected code.  This example highlights the importance of understanding Ada's array indexing mechanism.
